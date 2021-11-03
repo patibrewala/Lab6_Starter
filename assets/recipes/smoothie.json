@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "15",
+    "ratingValue": "5.0"
+  },
+  "name": "Mocha Smoothie",
+  "image": [ "https://cdn.pickuplimes.com/cache/4c/5a/4c5a602ca5a4cf81b6ab750f4c77c52c.jpg",
+             "https://cdn.pickuplimes.com/cache/a5/d4/a5d426cac62383f5de49b4aef75a2a83.jpg",
+             "https://cdn.pickuplimes.com/cache/db/32/db3298978aa2143992b5cdd73bc065dc.jpg"
+  ],
+  
+  "video": [
+    {
+      "@type": "VideoObject",
+      "name": "5 Wholesome Breakfast Smoothies",
+      "description": "Smoothies can be a great &quot;grab and go&quot; breakfast or snack option on busy days. We have 5 wholesome recipes for you today.",
+      "thumbnailUrl": [ "https://cdn.pickuplimes.com/cache/47/e2/47e25cedd7292dd98cf6efc05190275f.jpg",
+            "https://cdn.pickuplimes.com/cache/21/a7/21a7f15710b57220d665cd26527576a5.jpg",
+            "https://cdn.pickuplimes.com/cache/50/b8/50b82f29be67841036648f302a876f7e.jpg"
+      ],
+      "embedUrl": "https://www.youtube.com/embed/7xw7HGS7PIw?start=171",
+      "uploadDate": "Aug. 23, 2019, 1 a.m."
+    }
+  ],
+  
+  "author": {
+    "@type": "Person",
+    "name": "Pick Up Limes"
+  },
+  "datePublished": "Aug. 23, 2019, 10:26 a.m.",
+  "description": "This super creamy smoothie looks like a chocolate milkshake lovers dream. It&#39;s a perfectly sweetened and nutty smoothie to start your day, with the added benefits of veggies in the form of zucchini (which trust us: you can&#39;t taste at all in here!).",
+  "prepTime": "PT05M",
+  "cookTime": "PT",
+  "totalTime": "PT05M",
+  "recipeYield": "2 servings",
+  "recipeCategory": "Smoothie",
+  "recipeCuisine": "",
+  "keywords": "One-bowl / one-pot, On-the-go, 10 ingredients or less, soy free, peanut free, sesame free, vegan, vegetarian, plant-based",
+  "recipeIngredient": [
+        "1&#189; frozen banana",
+"1 cup unsweetened oat milk",
+"&#189; cup frozen chopped zucchini",
+"&#188; cup roasted cashews",
+"3 soft Medjool date",
+"1 Tbsp cocoa powder",
+"2 Tbsp brewed espresso",
+"&#189; tsp pure vanilla extract"
+       ]
+}
